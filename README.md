@@ -11,8 +11,9 @@ We design and manufacture high-performance microcontrollers and embedded solutio
 ---
 
 ## 🏢 About YTMicro
-YTMicro Electronics focuses on microcontrollers (MCUs) and embedded products for consumer, industrial, and IoT applications.  
-Our mission is to provide efficient, reliable, and developer-friendly solutions.
+Established in July 2020, Jiangsu Yuntu Microelectronics Co., Ltd. (referred to as “YTMicro”) is headquartered in Wuxi, China. It is an automotive chip company focused on the research and development of high-end automotive-grade control MCUs and HPUs, dedicated to becoming a leading enterprise in domestic automotive control chips and providing assurance for the innovation of global intelligent mobility technology.
+
+By establishing a complete automotive integrated circuit design and verification platform, and strictly adhering to AEC-Q100 and ISO-26262 development process systems and technical specifications, YTMicro has successfully developed multiple automotive-grade MCU chips and dedicated SoC chips with independent intellectual property rights, covering over 90% of application scenarios in the five major domains of a vehicle. Currently, YTMicro has obtained multiple relevant technology patents, with performance indicators ranking at the top of the industry.
 
 ---
 
@@ -49,7 +50,6 @@ If you’re a developer exploring YTMicro products:
 
 ## 📬 Contact
 - Website: [ytmicro.com](https://en.ytmicro.com)  
-- Email: support@ytmicro.com
--        contact@ytmicro.com
--       
+- Email: <support@ytmicro.com>
+-        <contact@ytmicro.com>       
   
