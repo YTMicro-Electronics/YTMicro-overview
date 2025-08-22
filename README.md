@@ -47,17 +47,17 @@ By establishing a complete automotive integrated circuit design and verification
 ---
 ## 🚀 Getting Started
 If you’re a developer exploring YTMicro products:
-1. Visit our [official developing-ecosystem](https://account.ytmicro.com/). In our ecosystem, you can find everything you need, including developing tools, datasheets, and application examples for every product.
+1. Visit and sign up for our [official developing-ecosystem](https://account.ytmicro.com/). In our ecosystem, you can find everything you need, including developing tools, datasheets, and application examples for every product.
 2. Carefully read the tutorials for beginners
-3. Explore our upcoming GitHub repositories (examples, drivers, SDKs).
+3. Download developing tools from either the official website or YunTu CDN.
+4. Try to build your first project.
+5. Explore our upcoming GitHub repositories (examples, drivers, SDKs).
 ---
 ## 📚 Developer Resources
-- [Datasheets & Technical Docs](https://en.ytmicro.com/index.php?ac=article&at=list&tid=19)  
-- [Application Notes](https://en.ytmicro.com/index.php?ac=article&at=list&tid=20)  
-- [Development Tools](https://en.ytmicro.com/index.php?ac=article&at=list&tid=22)  
----
+- For developers, YTMicro provided an [online forum](https://forum.ytmicro.com/). You can check the announcements, discussion & questions, and blogs published by all the users. 
 
 ## 📬 Contact
+- If you want to get some samples or have any questions, please visit our website or contact us by email directly.
 - Website: [ytmicro.com](https://en.ytmicro.com)  
 - Email: <support@ytmicro.com>
 - Email: <contact@ytmicro.com>      
