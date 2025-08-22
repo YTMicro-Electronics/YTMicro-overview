@@ -48,7 +48,7 @@ By establishing a complete automotive integrated circuit design and verification
 ## 🚀 Getting Started
 If you’re a developer exploring YTMicro products:
 1. Visit and sign up for our [official developing-ecosystem](https://account.ytmicro.com/). In our ecosystem, you can find everything you need, including developing tools, datasheets, and application examples for every product.
-2. Carefully read the tutorials for beginners
+2. Carefully read the [tutorials for beginners](BeginnerTutorial_CN.pdf)
 3. Download developing tools from either the official website or YunTu CDN.
 4. Try to build your first project.
 5. Explore our upcoming GitHub repositories (examples, drivers, SDKs).
